@@ -1,10 +1,10 @@
 ---
-title: Fuwari - 블로그를 만들때 발생했던 오류들 정리
+title: (Fuwari) 블로그를 만들때 발생했던 오류들 정리
 published: 2024-11-07
 description: 'Fuwari 템플릿으로 깃허브 블로그를 만들 때 겪었던 이슈들과 해결책을 소개'
 image: ''
 tags: [깃허브, Fuwari, Astro]
-category: 'Blog'
+category: 'Fuwari'
 draft: false 
 lang: ''
 ---
@@ -23,12 +23,7 @@ lang: ''
 git remote set-url origin <repository-url>
 ```
 
-* 만약 리모트를 삭제하고 새로 추가하려면 아래 명령을 사용
-
-```bash
-git remote remove origin
-git remote add origin <repository-url>
-```
+---
 
 ## ERR_PNPM_OUTDATED_LOCKFILE
 
@@ -60,6 +55,8 @@ pnpm install
 ```
 
 그 후 `pnpm-lock.yaml` 파일을 커밋하고 푸시
+
+---
 
 ## Author identity unknown *** Please tell me who you are.
 

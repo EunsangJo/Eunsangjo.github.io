@@ -1,10 +1,10 @@
 ---
-title: Fuwari - src/config.ts 파일 설명
+title: (Fuwari) src/config.ts 파일 설명
 published: 2024-11-07
 description: 'Fuwari 블로그를 커스터마이징하기 위한 config.ts 설정법'
 image: ''
 tags: [깃허브, Fuwari, Astro]
-category: 'Blog'
+category: 'Fuwari'
 draft: false 
 ---
 
