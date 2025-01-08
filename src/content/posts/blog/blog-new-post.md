@@ -4,7 +4,7 @@ published: 2024-11-08
 description: 'Fuwari 템플릿 블로그에서 새 게시물을 생성하는 방법 소개'
 image: ''
 tags: [깃허브, Fuwari, Astro]
-category: '블로그'
+category: 'Blog'
 draft: false 
 ---
 

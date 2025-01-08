@@ -4,7 +4,7 @@ published: 2024-11-06
 description: 'Fuwari 템플릿을 이용해 깃허브 블로그를 만드는 방법에 대한 소개'
 image: ''
 tags: [가이드, 깃허브, Fuwari, Astro]
-category: '블로그'
+category: 'Blog'
 draft: false 
 ---
 
