@@ -25,7 +25,7 @@ ComfyUI Desktop은 [ComfyUI](https://github.com/comfyanonymous/ComfyUI)를 하�
 
 - 단점
 
-  - 아직 베타 버전 단계라 버그가 많고 불안정합니다.
+  - 현재 베타 버전이므로 버그가 있을 수 있습니다.
   - [AUTOMATIC1111 WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)보다 더 높은 학습 곡선이 필요합니다.
 
 ---
